@@ -3,7 +3,7 @@
 - 😄 My name is: Korawut
 - ⚡ Student id: 63360187
 - 🔭 I'm currently studying on Faculty of Engineering.
-- 💼 My career in the future: 
+- 💼 My career in the future: Cafe
 - ⌨️ My programing skill:<img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:3px 2px">
 - 📖 My fav subject in computer engineering: Applied Probability for Computer Engineering 
 
